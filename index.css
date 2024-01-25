@@ -1,0 +1,16 @@
+body{
+    background-color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: white;
+}
+
+h2{
+    color: green;
+}
+
+p{
+    color: whitesmoke;
+}
